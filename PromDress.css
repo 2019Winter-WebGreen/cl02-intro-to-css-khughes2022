@@ -1,0 +1,19 @@
+/*
+* Kayla Hughes
+* 2-1-19
+* My First Web Page
+*/
+*{
+
+}
+/* Body attributes here */
+body {
+    width:80%;
+    margin: auto;
+background-color:blanchedalmond;
+}
+h1 {font-family:monospace; color:darkcyan;}
+p {font-family:monospace; color:darkorange;}
+#bluetext {color:darkcyan;}
+.Bluetext {font-family:monospace; color:darkcyan;}
+h3 {font-family:monospace;}
